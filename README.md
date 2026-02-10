@@ -6,18 +6,17 @@ The project includes proper component selection, schematic connections, footprin
 Key Component:
 
 1.Components
-|-----------------------|
-| Component   | Quantity| 
-| resistor    |   03    |
-| LM358       |   01    |
-| LED         |   02    |
-| Diode       |   01    |
-| Connector   |   01    |
-|   3pin      |         |
-| Poteniometer|   01    |
-| GND         |   01    | 
-| +5          |   01    |
-|_______________________|
+| Component         | Quantity |
+|-------------------|----------|
+| Resistor          | 3        |
+| LM358             | 1        |
+| LED               | 2        |
+| Diode             | 1        |
+| Connector (3-pin) | 1        |
+| Potentiometer     | 1        |
+| GND               | 1        |
+| +5V               | 1        |
+|                   |          |
 
 2.Schematic Diagram
 
